@@ -52,13 +52,13 @@ body {
   min-height: 568px;
 }
 .slide-1 {
-  background: #b4d1e0 url(..../img/slide-Image-1.png) no-repeat top right;
+  background: #b4d1e0 url(../img/slide-Image-1.png) no-repeat top right;
 }
 .slide-2 {
-  background: #dabc15 url(..../img/slide-Image-1.png) no-repeat top right;
+  background: #dabc15 url(../img/slide-Image-1.png) no-repeat top right;
 }
 .slide-3 {
-  background: #bb4999 url(..../img/slide-Image-1.png) no-repeat top right;
+  background: #bb4999 url(../img/slide-Image-1.png) no-repeat top right;
 }
 .label {
   background-color: #3dc47e;
